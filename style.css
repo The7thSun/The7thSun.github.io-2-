@@ -1,0 +1,55 @@
+
+h1 {
+    text-align:center;
+    font-size: 50px;
+    font-style: oblique;
+    line:height 3px;
+
+}
+
+h2 {
+    line-height:0%;
+    font-size:25px;
+    color:darkorchid;
+
+}
+
+h3 {
+    line-height: 70%;
+    font-style: italic;
+
+}
+
+h4 {
+    color:violet;
+    line-height: 50%;
+
+}
+
+div {
+    line-height: 100%;
+
+}
+
+section{
+    font-size: 20px;
+    
+}
+
+img{
+    width:20%;
+    margin-left: 40%;
+    border-style: double;
+    border-color:darkorchid;
+    border-width: 10px;
+}
+
+body {
+    background-color:bisque;
+    
+}
+
+
+
+
+
